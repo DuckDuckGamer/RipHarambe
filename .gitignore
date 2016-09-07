@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RIP HARAMBE U ARE MISSED</title>
+    <style type="text/css">
+    html { 
+  background: url(Harambe_Closeup.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2, h1, h3 {
+font-family: comic sans;
+font-size: 70px;
+color: #fff;
+text-align: center;
+padding: 1rem;
+text-indent: -9999px;
+}
+    </style>
+    
+  </head>
+  <body>
+  <h2>RIP HARAMBE</h2>
+  <h3>KING OF THE JUNGLE</h3>
+<iframe width="1" height="1" src="https://www.youtube.com/embed/-DSVDcw6iW8?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1" frameborder="0" style="visibility: hidden;" allowfullscreen></iframe>
+</body>
+</html>
